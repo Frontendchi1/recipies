@@ -1,0 +1,27 @@
+@import './tailwind.css';
+a{
+    text-decoration:none ;
+    margin-right: 10px;
+    color: wheat;
+}
+nav{
+    margin-left: 70%;
+    margin-top: -40px;
+    font-size: larger;
+}
+a:hover{
+    color: blue;
+}
+body{
+    background: url(./assets/bj-img.jpg);
+    color: wheat;
+}
+img{
+    width: 350px;
+    height: 200px;
+    border-radius: 10%;
+}
+.card{
+    display: flex;
+    
+}
